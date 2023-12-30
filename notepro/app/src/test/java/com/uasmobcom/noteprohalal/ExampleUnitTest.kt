@@ -1,4 +1,4 @@
-package com.example.intenthomework
+package com.uasmobcom.noteprohalal
 
 import org.junit.Test
 
